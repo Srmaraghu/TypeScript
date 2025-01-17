@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+
+# TypeScript build output
+dist/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+node_modules
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# TypeScript
+*.tsbuildinfo
+
+# VSCode settings (if using VSCode)
+.vscode/
+
+# Optional: If you're using a test framework and have coverage output
+coverage/
+
+# Optional: If you're using temporary or backup files
+*.bak
+*.tmp
